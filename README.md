@@ -402,14 +402,4 @@ You will need to download your fork, install Python 3, and run `pip install -r r
 
 See the original `README.md` in this repository for the full local-setup instructions.
 
----
 
-## Support Development
-
-I build and maintain this project as an independent developer.
-
-If this tool has been useful to you and you'd like to support future improvements, you can do so here:
-
-☕ https://paypal.me/trvrj
-
-Thank you for trying the app. I hope it helps you create something meaningful.
